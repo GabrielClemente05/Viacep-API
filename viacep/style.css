@@ -1,0 +1,33 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #4CC24B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    margin-top: 1.5em;
+    background-color: #ececa8;
+    width: 600px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #A8D0ED;
+    border-width: 1px;
+    border-radius: 3px;
+    color: black;
+}
+
+button:hover {
+    background-color: rgb(140, 170, 189);
+}
+
+input {
+    border-radius: 3px;
+}
